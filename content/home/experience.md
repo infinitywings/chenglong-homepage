@@ -1,27 +1,28 @@
 ---
-widget: experience
+widget: Experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+  - title: Doctor of Philosophy
+    company: Temple University
+    company_url: "https://www.temple.edu"
+    company_logo: temple
+    location: Philadelphia, Pennsylvania
+    date_start: 2016-08-24
+    date_end: 2022-05-05
     description: |-2
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+        * Sleeping
+  - title: Bachelor of Science
+    company: University of Science and Technology of China
+    company_url: "http://en.ustc.edu.cn"
+    company_logo: ustc.png
+    location: Hefei, China
+    date_start: 2011-08-15
+    date_end: 2015-06-15
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: edu_exp
 headless: true
@@ -30,26 +31,3 @@ title: Education & Experience
 subtitle: null
 design:
   columns: "2"
----
-experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        * Sleeping
-                
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
