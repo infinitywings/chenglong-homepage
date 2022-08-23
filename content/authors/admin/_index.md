@@ -1,7 +1,6 @@
 ---
-# Role/position/tagline
 role: Assistant Professor
-avatar_filename: avatar.jpeg
+avatar_filename: profile.jpg
 bio: "My research interests are in the area of security of the Internet of
   Things and Artificial Intelligence (AI) /Machine Learning (ML). "
 interests:
